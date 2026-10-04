@@ -27,34 +27,11 @@
 
 ### 🚀 Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/HariharPal/MonkMarket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=MonkMarket&theme=tokyonight&hide_border=true" /></a><br/>
-      <sub>🛍️ AI shopping assistant that turns plain language into safe, guardrailed cart and checkout actions.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/HariharPal/Terravox"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Terravox&theme=tokyonight&hide_border=true" /></a><br/>
-      <sub>🌍 Real-time disaster monitoring and alerting on Spring Boot microservices, with a Flutter app.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/HariharPal/Bozon-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Bozon-AI&theme=tokyonight&hide_border=true" /></a><br/>
-      <sub>🤖 Context-aware AI assistant with web search and live streaming replies.</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/HariharPal/Raw"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Raw&theme=tokyonight&hide_border=true" /></a><br/>
-      <sub>🧪 A small programming language I built in Java: scanner, parser, resolver and interpreter.</sub>
-    </td>
-  </tr>
-</table>
-
-### 📊 Stats
-
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HariharPal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariharPal&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/HariharPal/MonkMarket"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=MonkMarket&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HariharPal/Terravox"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Terravox&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HariharPal/Bozon-AI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Bozon-AI&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HariharPal/Raw"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Raw&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 ---

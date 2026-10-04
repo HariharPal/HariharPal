@@ -28,10 +28,10 @@
 ### 🚀 Projects
 
 <p>
-  <a href="https://github.com/HariharPal/MonkMarket"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=MonkMarket&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/HariharPal/Terravox"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Terravox&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/HariharPal/Bozon-AI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Bozon-AI&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/HariharPal/Raw"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Raw&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/HariharPal/MonkMarket"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=MonkMarket&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
+  <a href="https://github.com/HariharPal/Terravox"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Terravox&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
+  <a href="https://github.com/HariharPal/Bozon-AI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Bozon-AI&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
+  <a href="https://github.com/HariharPal/Raw"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HariharPal&repo=Raw&theme=tokyonight&hide_border=true&description_lines_count=2" /></a>
 </p>
 
 ---
